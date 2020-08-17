@@ -1,1 +1,1 @@
-# election
+# this is a program which shows how the votes can differ if there are three groups of people where for example a supports a party and b supports another party and c remains neutral and how this c is influenced by a and b
